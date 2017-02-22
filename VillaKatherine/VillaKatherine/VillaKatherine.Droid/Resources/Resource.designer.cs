@@ -63,6 +63,9 @@ namespace VillaKatherine.Droid
 			// aapt resource value: 0x7f050001
 			public const int home_button = 2131034113;
 			
+			// aapt resource value: 0x7f050000
+			public const int menu_toolbar = 2131034112;
+			
 			// aapt resource value: 0x7f050002
 			public const int photos_button = 2131034114;
 			
@@ -72,8 +75,8 @@ namespace VillaKatherine.Droid
 			// aapt resource value: 0x7f050005
 			public const int textView1 = 2131034117;
 			
-			// aapt resource value: 0x7f050000
-			public const int toolbar1 = 2131034112;
+			// aapt resource value: 0x7f050006
+			public const int toolbar1 = 2131034118;
 			
 			// aapt resource value: 0x7f050004
 			public const int vr_button = 2131034116;

@@ -15,10 +15,11 @@ public final class R {
     }
     public static final class id {
         public static final int home_button=0x7f050001;
+        public static final int menu_toolbar=0x7f050000;
         public static final int photos_button=0x7f050002;
         public static final int rooms_button=0x7f050003;
         public static final int textView1=0x7f050005;
-        public static final int toolbar1=0x7f050000;
+        public static final int toolbar1=0x7f050006;
         public static final int vr_button=0x7f050004;
     }
     public static final class layout {
