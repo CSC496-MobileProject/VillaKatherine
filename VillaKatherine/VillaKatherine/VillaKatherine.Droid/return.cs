@@ -30,7 +30,7 @@ namespace VillaKatherine.Droid
             // OnClick functions for buttons
             returnButton.Click += (object sender, EventArgs e) =>
             {
-                var intent = new Intent(this, typeof(return_rooms));
+                var intent = new Intent(this, typeof(rooms));
                 StartActivity(intent);
             };
 
