@@ -49,6 +49,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="return_rooms.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="photos.cs" />
     <Compile Include="Resources\Resource.designer.cs" />

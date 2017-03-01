@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>2/28/2017 8:00:51 PM</xs:documentation>
+    <xs:documentation>2/28/2017 8:15:04 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -16753,8 +16753,11 @@
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkBox1" />
             <xs:enumeration value="@id/home_button" />
+            <xs:enumeration value="@id/imageView1" />
             <xs:enumeration value="@id/menu_toolbar" />
+            <xs:enumeration value="@id/parlor_text" />
             <xs:enumeration value="@id/photos_button" />
+            <xs:enumeration value="@id/return_button" />
             <xs:enumeration value="@id/rooms_button" />
             <xs:enumeration value="@id/textView1" />
             <xs:enumeration value="@id/toolbar1" />
