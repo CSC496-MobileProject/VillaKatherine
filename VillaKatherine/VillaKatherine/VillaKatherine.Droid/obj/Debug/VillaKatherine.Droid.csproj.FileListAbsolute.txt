@@ -43,4 +43,51 @@ C:\Users\Rainwater\Documents\College Stuff\CSC496\VillaKatherine\VillaKatherine\
 C:\Users\Rainwater\Documents\College Stuff\CSC496\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\VillaKatherine.dll.mdb
 C:\Users\Rainwater\Documents\College Stuff\CSC496\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\VillaKatherine.Droid.dll.mdb
 C:\Users\Rainwater\Documents\College Stuff\CSC496\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\VillaKatherine.Droid.dll.mdb
-C:\Users\Rainwater\Documents\College Stuff\CSC496\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.Droid.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\VillaKatherine.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\VillaKatherine.Droid.dll
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.Droid.dll
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.Droid.pdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.Droid.apk
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.Droid-Signed.apk
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.dll
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.pdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\VillaKatherine.Droid.pdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\bin\VillaKatherine.Droid.apk
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\layout\rooms.xml
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\layout\main.xml
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\R.cs.flag
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\uploadflags.txt
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\System.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.Droid.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\VillaKatherine.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\android\assets\VillaKatherine.Droid.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\layout\photos.xml
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\res\layout\vr.xml
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\obj\Debug\VillaKatherine.Droid.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKatherine\VillaKatherine\VillaKatherine.Droid\bin\Debug\VillaKatherine.Droid.dll.mdb

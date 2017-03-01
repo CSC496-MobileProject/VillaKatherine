@@ -98,7 +98,13 @@ namespace VillaKatherine.Droid
 			public const int Main = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int rooms = 2130903041;
+			public const int photos = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int rooms = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int vr = 2130903043;
 			
 			static Layout()
 			{
@@ -113,11 +119,20 @@ namespace VillaKatherine.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int app_name = 2130968577;
-			
 			// aapt resource value: 0x7f040000
-			public const int hello = 2130968576;
+			public const int Home = 2130968576;
+			
+			// aapt resource value: 0x7f040002
+			public const int Photos = 2130968578;
+			
+			// aapt resource value: 0x7f040001
+			public const int Rooms = 2130968577;
+			
+			// aapt resource value: 0x7f040003
+			public const int VR = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int app_name = 2130968580;
 			
 			static String()
 			{

@@ -1,33 +1,35 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 using Android.App;
 using Android.Content;
+using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using Android.OS;
 
 namespace VillaKatherine.Droid
 {
-	[Activity (Label = "VillaKatherine.Droid", MainLauncher = true, Icon = "@drawable/icon")]
-	public class MainActivity : Activity
-	{
-		
-		protected override void OnCreate (Bundle bundle)
-		{
-			base.OnCreate (bundle);
+    [Activity(Label = "@string/Photos")]
+    public class photos : Activity
+    {
+        protected override void OnCreate(Bundle savedInstanceState)
+        {
+            base.OnCreate(savedInstanceState);
 
             Window.RequestFeature(WindowFeatures.NoTitle); //This will Hide the title Bar
 
-			// Set our view from the "main" layout resource
-			SetContentView (Resource.Layout.Main);
+            // Set our view from the "Photos" layout resource
+            SetContentView(Resource.Layout.photos);
 
             // Set reference to buttons
             Button homeButton = FindViewById<Button>(Resource.Id.home_button);
             Button photosButton = FindViewById<Button>(Resource.Id.photos_button);
             Button roomsButton = FindViewById<Button>(Resource.Id.rooms_button);
             Button vrButton = FindViewById<Button>(Resource.Id.vr_button);
-			
+
             // OnClick functions for buttons
             homeButton.Click += (object sender, EventArgs e) =>
             {
@@ -52,9 +54,6 @@ namespace VillaKatherine.Droid
                 var intent = new Intent(this, typeof(vr));
                 StartActivity(intent);
             };
-
-		}
-	}
+        }
+    }
 }
-
-

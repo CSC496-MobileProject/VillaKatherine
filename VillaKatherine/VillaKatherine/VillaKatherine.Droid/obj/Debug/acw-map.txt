@@ -2,3 +2,15 @@ VillaKatherine.Droid.MainActivity, VillaKatherine.Droid;md5cece1c0a989a2395ea372
 VillaKatherine.Droid.MainActivity, VillaKatherine.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cece1c0a989a2395ea3723529c046232.MainActivity
 VillaKatherine.Droid.MainActivity;md5cece1c0a989a2395ea3723529c046232.MainActivity
 villakatherine.droid.MainActivity;md5cece1c0a989a2395ea3723529c046232.MainActivity
+VillaKatherine.Droid.photos, VillaKatherine.Droid;md5cece1c0a989a2395ea3723529c046232.photos
+VillaKatherine.Droid.photos, VillaKatherine.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cece1c0a989a2395ea3723529c046232.photos
+VillaKatherine.Droid.photos;md5cece1c0a989a2395ea3723529c046232.photos
+villakatherine.droid.photos;md5cece1c0a989a2395ea3723529c046232.photos
+VillaKatherine.Droid.rooms, VillaKatherine.Droid;md5cece1c0a989a2395ea3723529c046232.rooms
+VillaKatherine.Droid.rooms, VillaKatherine.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cece1c0a989a2395ea3723529c046232.rooms
+VillaKatherine.Droid.rooms;md5cece1c0a989a2395ea3723529c046232.rooms
+villakatherine.droid.rooms;md5cece1c0a989a2395ea3723529c046232.rooms
+VillaKatherine.Droid.vr, VillaKatherine.Droid;md5cece1c0a989a2395ea3723529c046232.vr
+VillaKatherine.Droid.vr, VillaKatherine.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cece1c0a989a2395ea3723529c046232.vr
+VillaKatherine.Droid.vr;md5cece1c0a989a2395ea3723529c046232.vr
+villakatherine.droid.vr;md5cece1c0a989a2395ea3723529c046232.vr
