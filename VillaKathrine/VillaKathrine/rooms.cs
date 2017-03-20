@@ -30,6 +30,10 @@ namespace VillaKathrine
             Button roomsButton = FindViewById<Button>(Resource.Id.rooms_button);
             Button vrButton = FindViewById<Button>(Resource.Id.vr_button);
             Button parlorButton = FindViewById<Button>(Resource.Id.parlor_button);
+            Button courtyardButton = FindViewById<Button>(Resource.Id.courtyard_button);
+            Button diningButton = FindViewById<Button>(Resource.Id.dining_button);
+            Button sittingButton = FindViewById<Button>(Resource.Id.sitting_button);
+            Button bedroomButton = FindViewById<Button>(Resource.Id.bedroom_button);
 
             // OnClick functions for buttons
             homeButton.Click += (object sender, EventArgs e) =>
@@ -63,7 +67,7 @@ namespace VillaKathrine
                 StartActivity(intent);
             };
 
-            /*courtyardButton.Click += (object sender, EventArgs e) =>
+            courtyardButton.Click += (object sender, EventArgs e) =>
             {
                 var intent = new Intent(this, typeof(room_info));
                 intent.PutExtra("room_id", "Courtyard");
@@ -89,7 +93,7 @@ namespace VillaKathrine
                 var intent = new Intent(this, typeof(room_info));
                 intent.PutExtra("room_id", "Bedrooms");
                 StartActivity(intent);
-            };*/
+            };
         }
     }
 }

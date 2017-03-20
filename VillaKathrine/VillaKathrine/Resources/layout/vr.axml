@@ -32,7 +32,7 @@
             android:id="@+id/vr_button" />
     </Toolbar>
     <TextView
-        android:text="VR Page"
+        android:text="This feature is currently in development."
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

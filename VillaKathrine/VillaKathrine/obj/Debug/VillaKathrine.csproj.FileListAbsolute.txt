@@ -39,5 +39,6 @@ C:\Users\Rainwater\Documents\Visual Studio 2015\Projects\VillaKathrine\VillaKath
 C:\Users\Rainwater\Documents\Visual Studio 2015\Projects\VillaKathrine\VillaKathrine\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Rainwater\Documents\Visual Studio 2015\Projects\VillaKathrine\VillaKathrine\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\Rainwater\Documents\Visual Studio 2015\Projects\VillaKathrine\VillaKathrine\obj\Debug\android\assets\VillaKathrine.dll.mdb
+C:\Users\Rainwater\Documents\Visual Studio 2015\Projects\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\villa_main.png
 C:\Users\Rainwater\Documents\Visual Studio 2015\Projects\VillaKathrine\VillaKathrine\obj\Debug\VillaKathrine.dll.mdb
 C:\Users\Rainwater\Documents\Visual Studio 2015\Projects\VillaKathrine\VillaKathrine\bin\Debug\VillaKathrine.dll.mdb
