@@ -33,7 +33,7 @@
                 android:layout_marginTop="2.0dp"
                 android:clickable="true" />
             <Button
-                android:text="@string/VR"
+                android:text="Timeline"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/vr_button" />
