@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>3/16/2017 3:14:39 PM</xs:documentation>
+    <xs:documentation>3/21/2017 8:15:43 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -775,7 +775,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1410,7 +1415,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2085,7 +2095,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2448,7 +2463,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -2762,7 +2782,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3386,7 +3411,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3623,6 +3653,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -3672,6 +3703,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -3719,7 +3751,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4052,7 +4089,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4289,6 +4331,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -4336,7 +4379,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4589,7 +4637,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4826,6 +4879,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -5288,7 +5342,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -5707,7 +5766,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6036,6 +6100,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -6099,7 +6164,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6376,6 +6446,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -6585,7 +6656,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -6899,7 +6975,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7213,7 +7294,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7567,7 +7653,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7881,7 +7972,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8306,7 +8402,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8676,7 +8777,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -8953,7 +9059,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -9389,7 +9500,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -9798,7 +9914,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -10325,7 +10446,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -10790,7 +10916,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -11106,6 +11237,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -11155,6 +11287,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -11282,7 +11415,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -11774,6 +11912,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -11823,6 +11962,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -11872,6 +12012,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -11919,7 +12060,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12154,7 +12300,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12389,7 +12540,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12624,7 +12780,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12859,7 +13020,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13094,7 +13260,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13329,7 +13500,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13564,7 +13740,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13994,7 +14175,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14256,7 +14442,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14491,7 +14682,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14726,7 +14922,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14961,7 +15162,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15236,7 +15442,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15471,7 +15682,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -15785,7 +16001,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16060,7 +16281,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16387,7 +16613,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16622,7 +16853,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16939,6 +17175,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -17206,7 +17443,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17461,6 +17703,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -17559,7 +17802,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17889,7 +18137,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18453,7 +18706,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18690,6 +18948,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -18782,7 +19041,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19177,7 +19441,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19532,7 +19801,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19783,7 +20057,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -20479,7 +20758,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -20836,7 +21120,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -21164,6 +21453,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -21370,6 +21660,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -21633,6 +21924,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -21852,7 +22144,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22099,7 +22396,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22336,6 +22638,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -22383,7 +22686,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22658,7 +22966,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22893,7 +23206,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23128,7 +23446,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23363,7 +23686,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23598,7 +23926,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24256,6 +24589,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -24318,7 +24652,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24570,7 +24909,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -24884,7 +25228,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -25626,7 +25975,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -25980,7 +26334,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26229,6 +26588,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -26405,7 +26765,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26751,7 +27116,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26986,7 +27356,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -27223,6 +27598,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -27774,7 +28150,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28009,7 +28390,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28244,7 +28630,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28479,7 +28870,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28894,7 +29290,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29129,7 +29530,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29533,7 +29939,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29768,7 +30179,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -30082,7 +30498,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30642,6 +31063,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -30769,7 +31191,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -31298,7 +31725,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -31670,7 +32102,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -31919,6 +32356,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -32874,7 +33312,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -33111,6 +33554,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -33158,7 +33602,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -33485,7 +33934,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -33800,7 +34254,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34035,7 +34494,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34310,7 +34774,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34545,7 +35014,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34782,6 +35256,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -34831,6 +35306,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -34943,7 +35419,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35178,7 +35659,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -35492,7 +35978,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -35806,7 +36297,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -36120,7 +36616,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -36434,7 +36935,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36695,7 +37201,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36930,7 +37441,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37165,7 +37681,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37400,7 +37921,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37635,7 +38161,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37870,7 +38401,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38105,7 +38641,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38422,6 +38963,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -38471,6 +39013,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -38530,7 +39073,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38765,7 +39313,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39000,7 +39553,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40182,7 +40740,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40601,7 +41164,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40964,6 +41532,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -41117,6 +41686,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -41364,7 +41934,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -41771,7 +42346,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -42255,6 +42835,7 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
+            <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
             <xs:enumeration value="@string/Home" />
@@ -42531,7 +43112,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -42993,7 +43579,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43244,7 +43835,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43479,7 +44075,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43714,7 +44315,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -44028,7 +44634,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -44394,7 +45005,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -44629,7 +45245,12 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@drawable/bedrooms" />
+            <xs:enumeration value="@drawable/courtyard" />
+            <xs:enumeration value="@drawable/dining_room" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/parlor" />
+            <xs:enumeration value="@drawable/sitting_room" />
             <xs:enumeration value="@drawable/villa_main" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />

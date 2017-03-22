@@ -11,28 +11,58 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
-        public static final int villa_main=0x7f020001;
+        public static final int bedrooms=0x7f020000;
+        public static final int courtyard=0x7f020001;
+        public static final int dining_room=0x7f020002;
+        public static final int icon=0x7f020003;
+        public static final int parlor=0x7f020004;
+        public static final int sitting_room=0x7f020005;
+        public static final int villa_main=0x7f020006;
     }
     public static final class id {
-        public static final int bedroom_button=0x7f050012;
-        public static final int courtyard_button=0x7f05000f;
-        public static final int dining_button=0x7f050010;
+        public static final int bedroom_button=0x7f05002b;
+        public static final int courtyard_button=0x7f050028;
+        public static final int dining_button=0x7f050029;
+        public static final int gridLayout1=0x7f05000a;
         public static final int home_button=0x7f050003;
-        public static final int imageView1=0x7f050007;
-        public static final int imageview=0x7f05000a;
+        public static final int imageView1=0x7f050008;
+        public static final int imageView10=0x7f050013;
+        public static final int imageView11=0x7f050014;
+        public static final int imageView12=0x7f050015;
+        public static final int imageView13=0x7f050016;
+        public static final int imageView14=0x7f050017;
+        public static final int imageView15=0x7f050018;
+        public static final int imageView16=0x7f050019;
+        public static final int imageView17=0x7f05001a;
+        public static final int imageView18=0x7f05001b;
+        public static final int imageView19=0x7f05001c;
+        public static final int imageView2=0x7f05000b;
+        public static final int imageView20=0x7f05001d;
+        public static final int imageView21=0x7f05001e;
+        public static final int imageView22=0x7f05001f;
+        public static final int imageView23=0x7f050020;
+        public static final int imageView24=0x7f050021;
+        public static final int imageView25=0x7f050022;
+        public static final int imageView3=0x7f05000c;
+        public static final int imageView4=0x7f05000d;
+        public static final int imageView5=0x7f05000f;
+        public static final int imageView6=0x7f05000e;
+        public static final int imageView7=0x7f050010;
+        public static final int imageView8=0x7f050011;
+        public static final int imageView9=0x7f050012;
+        public static final int imageview=0x7f050024;
         public static final int linearLayout1=0x7f050000;
         public static final int linearLayout2=0x7f050001;
-        public static final int linearLayout3=0x7f05000d;
+        public static final int linearLayout3=0x7f050007;
         public static final int menu_toolbar=0x7f050002;
-        public static final int parlor_button=0x7f05000e;
+        public static final int parlor_button=0x7f050027;
         public static final int photos_button=0x7f050004;
-        public static final int return_button=0x7f050009;
-        public static final int room_desc=0x7f05000c;
-        public static final int room_name=0x7f05000b;
+        public static final int return_button=0x7f050023;
+        public static final int room_desc=0x7f050026;
+        public static final int room_name=0x7f050025;
         public static final int rooms_button=0x7f050005;
-        public static final int sitting_button=0x7f050011;
-        public static final int textView1=0x7f050008;
+        public static final int sitting_button=0x7f05002a;
+        public static final int textView1=0x7f050009;
         public static final int vr_button=0x7f050006;
     }
     public static final class layout {
@@ -43,7 +73,8 @@ public final class R {
         public static final int vr=0x7f030004;
     }
     public static final class string {
-        public static final int ApplicationName=0x7f040009;
+        public static final int ApplicationName=0x7f04000a;
+        public static final int Contact=0x7f040009;
         public static final int Home=0x7f040000;
         public static final int Photos=0x7f040002;
         public static final int Rooms=0x7f040001;
