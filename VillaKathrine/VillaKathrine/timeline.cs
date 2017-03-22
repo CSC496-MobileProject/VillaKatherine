@@ -12,8 +12,8 @@ using Android.Widget;
 
 namespace VillaKathrine
 {
-    [Activity(Label = "vr")]
-    public class vr : Activity
+    [Activity(Label = "timeline")]
+    public class timeline : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -22,13 +22,13 @@ namespace VillaKathrine
             Window.RequestFeature(WindowFeatures.NoTitle); //This will Hide the title Bar
 
             // Set our view from the "Photos" layout resource
-            SetContentView(Resource.Layout.vr);
+            SetContentView(Resource.Layout.timeline);
 
             // Set reference to buttons
             Button homeButton = FindViewById<Button>(Resource.Id.home_button);
             Button photosButton = FindViewById<Button>(Resource.Id.photos_button);
             Button roomsButton = FindViewById<Button>(Resource.Id.rooms_button);
-            Button vrButton = FindViewById<Button>(Resource.Id.vr_button);
+            Button timelineButton = FindViewById<Button>(Resource.Id.timeline_button);
 
             // OnClick functions for buttons
             homeButton.Click += (object sender, EventArgs e) =>
@@ -49,9 +49,9 @@ namespace VillaKathrine
                 StartActivity(intent);
             };
 
-            vrButton.Click += (object sender, EventArgs e) =>
+            timelineButton.Click += (object sender, EventArgs e) =>
             {
-                var intent = new Intent(this, typeof(vr));
+                var intent = new Intent(this, typeof(timeline));
                 StartActivity(intent);
             };
         }

@@ -208,7 +208,7 @@ namespace VillaKathrine
 			public const int textView1 = 2131034121;
 			
 			// aapt resource value: 0x7f050006
-			public const int vr_button = 2131034118;
+			public const int timeline_button = 2131034118;
 			
 			static Id()
 			{
@@ -236,7 +236,7 @@ namespace VillaKathrine
 			public const int rooms = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int vr = 2130903044;
+			public const int timeline = 2130903044;
 			
 			static Layout()
 			{
@@ -266,8 +266,14 @@ namespace VillaKathrine
 			// aapt resource value: 0x7f040001
 			public const int Rooms = 2130968577;
 			
+			// aapt resource value: 0x7f04000b
+			public const int Timeline = 2130968587;
+			
 			// aapt resource value: 0x7f040003
 			public const int VR = 2130968579;
+            //does this need changed to timeline???
+
+
 			
 			// aapt resource value: 0x7f040008
 			public const int bedrooms = 2130968584;

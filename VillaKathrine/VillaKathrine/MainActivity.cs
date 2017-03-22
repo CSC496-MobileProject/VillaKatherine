@@ -25,7 +25,7 @@ namespace VillaKathrine
             Button homeButton = FindViewById<Button>(Resource.Id.home_button);
             Button photosButton = FindViewById<Button>(Resource.Id.photos_button);
             Button roomsButton = FindViewById<Button>(Resource.Id.rooms_button);
-            Button vrButton = FindViewById<Button>(Resource.Id.vr_button);
+            Button timelineButton = FindViewById<Button>(Resource.Id.timeline_button);
 
             // OnClick functions for buttons
             homeButton.Click += (object sender, EventArgs e) =>
@@ -46,9 +46,9 @@ namespace VillaKathrine
                 StartActivity(intent);
             };
 
-            vrButton.Click += (object sender, EventArgs e) =>
+            timelineButton.Click += (object sender, EventArgs e) =>
             {
-                var intent = new Intent(this, typeof(vr));
+                var intent = new Intent(this, typeof(timeline));
                 StartActivity(intent);
             };
         }

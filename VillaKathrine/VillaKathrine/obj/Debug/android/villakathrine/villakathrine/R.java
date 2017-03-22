@@ -70,7 +70,7 @@ public final class R {
         public static final int photos=0x7f030001;
         public static final int room_info=0x7f030002;
         public static final int rooms=0x7f030003;
-        public static final int vr=0x7f030004;
+        public static final int timeline=0x7f030004;
     }
     public static final class string {
         public static final int ApplicationName=0x7f04000a;
@@ -78,6 +78,7 @@ public final class R {
         public static final int Home=0x7f040000;
         public static final int Photos=0x7f040002;
         public static final int Rooms=0x7f040001;
+        public static final int Timeline=0x7f04000b;
         public static final int VR=0x7f040003;
         public static final int bedrooms=0x7f040008;
         public static final int courtyard=0x7f040005;

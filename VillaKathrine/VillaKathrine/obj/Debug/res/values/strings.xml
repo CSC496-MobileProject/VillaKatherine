@@ -1,4 +1,4 @@
-<resources><string name="Home">Home</string><string name="Rooms">Rooms</string><string name="Photos">Photos</string><string name="VR">VR Tour</string><string name="parlor">
+<resources><string name="Home">Home</string><string name="Rooms">Rooms</string><string name="Photos">Photos</string><string name="Timeline">Timeline</string><string name="parlor">
       \u2022The Villa features recurring shapes, such as the diamond and the eight-pointed star.\n\n
       \u2022The ceiling beams are original and made of cypress. The construction materials were all bought locally.\n\n
       \u2022The entire Villa, plus 4 acres of land, was bought by the Quincy Park District in 1955, which used it as a community center for neighborhood children for several years.\n\n
@@ -20,4 +20,10 @@
       \u2022The Villa\'s walls are twelve to eighteen inches thick brick, covered by one half to one inch think plaster.\n\n
       \u2022There is a fireplace or wood-burning stove in every (original) room. Also, the rooms all have doors that open into the Courtyard.\n\n
       \u2022William "George" Metz was said to have a 212 pound Mastiff dog named "Bingo"."\n\n
-    </string><string name="Contact">Contact info :\n\nvillakathrine.org\nvillakathrine@hotmail.com\nphone: 217-224-6388\n532 Gardner Denver Expressway P.O. Box 732 Quincy, IL</string><string name="ApplicationName">VillaKathrine</string></resources>
+    </string><string name="Contact">Contact info :\n\nvillakathrine.org\nvillakathrine@hotmail.com\nphone: 217-224-6388\n532 Gardner Denver Expressway P.O. Box 732 Quincy, IL</string><string name="ApplicationName">VillaKathrine</string><string name="Timeline">TIMELINE OF EVENTS  \n\n \n 1900: Villa was built by William, "George" Metz, a Quincy native, for $7,000.
+    \n 1912: A couple approached Metz asking to purchase the Villa. He resisted at first, but at the persistent urging of relatives, he eventually sold the Villa. 
+    \n 1933: Metz returned to the Villa with a reporter. When asked why he named it the Villa Kathrine, he only chuckled and did not answer. 
+    \n 1937: Metz dies in Quincy at the age of 88. 
+    \n 1955: The Quincy Park District acquired the property of the Villa, with the help of Fabiola Moorman, and is still the owner. 
+    \n 1978: A serious effort was undertaken to restore the Villa. 
+    \n 1998: The Friends of the Castle completed the restoration of the Villa.</string></resources>

@@ -32,9 +32,9 @@
             android:id="@+id/vr_button" />
     </Toolbar>
     <TextView
-        android:text="This feature is currently in development."
+        android:text="@string/Timeline"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:id="@+id/textView1" />
 </LinearLayout>
