@@ -14,7 +14,7 @@
     <activity android:label="photos" android:name="md5839ece1ad673f025203fb3eb247aa9b5.photos" />
     <activity android:label="rooms" android:name="md5839ece1ad673f025203fb3eb247aa9b5.rooms" />
     <activity android:label="room_info" android:name="md5839ece1ad673f025203fb3eb247aa9b5.room_info" />
-    <activity android:label="vr" android:name="md5839ece1ad673f025203fb3eb247aa9b5.vr" />
+    <activity android:label="timeline" android:name="md5839ece1ad673f025203fb3eb247aa9b5.timeline" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="VillaKathrine.VillaKathrine.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

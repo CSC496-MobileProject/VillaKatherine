@@ -50,7 +50,6 @@ C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\o
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\VillaKathrine.pdb
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\android\bin\VillaKathrine.VillaKathrine.apk
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\layout\rooms.xml
-C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\layout\vr.xml
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\layout\photos.xml
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\layout\room_info.xml
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\layout\main.xml
@@ -88,5 +87,6 @@ C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\o
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\bedrooms.png
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\sitting_room.png
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\parlor.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\layout\timeline.xml
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\VillaKathrine.dll.mdb
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\bin\Debug\VillaKathrine.dll.mdb

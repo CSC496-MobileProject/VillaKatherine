@@ -63,7 +63,7 @@ public final class R {
         public static final int rooms_button=0x7f050005;
         public static final int sitting_button=0x7f05002a;
         public static final int textView1=0x7f050009;
-        public static final int vr_button=0x7f050006;
+        public static final int timeline_button=0x7f050006;
     }
     public static final class layout {
         public static final int main=0x7f030000;
@@ -78,8 +78,8 @@ public final class R {
         public static final int Home=0x7f040000;
         public static final int Photos=0x7f040002;
         public static final int Rooms=0x7f040001;
-        public static final int Timeline=0x7f04000b;
-        public static final int VR=0x7f040003;
+        public static final int Timeline=0x7f040003;
+        public static final int Timeline_info=0x7f04000b;
         public static final int bedrooms=0x7f040008;
         public static final int courtyard=0x7f040005;
         public static final int dining_room=0x7f040006;

@@ -266,14 +266,11 @@ namespace VillaKathrine
 			// aapt resource value: 0x7f040001
 			public const int Rooms = 2130968577;
 			
-			// aapt resource value: 0x7f04000b
-			public const int Timeline = 2130968587;
-			
 			// aapt resource value: 0x7f040003
-			public const int VR = 2130968579;
-            //does this need changed to timeline???
-
-
+			public const int Timeline = 2130968579;
+			
+			// aapt resource value: 0x7f04000b
+			public const int Timeline_info = 2130968587;
 			
 			// aapt resource value: 0x7f040008
 			public const int bedrooms = 2130968584;
