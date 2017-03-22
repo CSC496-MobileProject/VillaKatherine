@@ -37,7 +37,7 @@
                 p1:text="Timeline"
                 p1:layout_width="wrap_content"
                 p1:layout_height="wrap_content"
-                p1:id="@+id/vr_button" />
+                p1:id="@+id/timeline_button" />
         </Toolbar>
     </LinearLayout>
     <LinearLayout
