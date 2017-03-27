@@ -60,13 +60,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:id="@+id/linearLayout3">
-              <TextView
-                  android:text="@string/Timeline_info"
-                  android:textAppearance="?android:attr/textAppearanceMedium"
-                  android:layout_width="match_parent"
-                  android:layout_height="match_parent"
-                  android:id="@+id/textView1"
-                  android:gravity="center" />
+                <TextView
+                    android:text="@string/Timeline_info"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/textView1"
+                    android:gravity="center" />
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>

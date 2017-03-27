@@ -3,7 +3,9 @@
     p1:orientation="vertical"
     p1:layout_width="match_parent"
     p1:layout_height="match_parent"
-    p1:id="@+id/linearLayout1">
+    p1:id="@+id/linearLayout1"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:gridSpec="1|8|#0093eeff|K:#ee8700ff:72,l:16,r|S:#83ee00ff:16,0,l:16,56,l:16,0,r">
     <LinearLayout
         p1:orientation="horizontal"
         p1:minWidth="25px"

@@ -31,7 +31,7 @@
                 p1:layout_width="wrap_content"
                 p1:layout_height="wrap_content"
                 p1:id="@+id/rooms_button"
-                p1:layout_marginTop="2.0dp"
+                p1:layout_marginTop="1.0dp"
                 p1:clickable="true" />
             <Button
                 p1:text="Timeline"
