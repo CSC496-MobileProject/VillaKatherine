@@ -46,32 +46,33 @@
         android:rowCount="6"
         android:columnCount="5">
         <ImageView
-            android:src="@android:drawable/ic_menu_gallery"
+            android:src="@drawable/villa_main"
             android:id="@+id/imageView1"
             android:layout_height="75dp"
-            android:layout_width="75dp" />
+            android:layout_width="75dp"
+            android:tag="villa_main" />
         <ImageView
-            android:src="@android:drawable/ic_menu_gallery"
+            android:src="@drawable/bedrooms"
             android:id="@+id/imageView2"
             android:layout_height="75dp"
             android:layout_width="75dp" />
         <ImageView
-            android:src="@android:drawable/ic_menu_gallery"
+            android:src="@drawable/courtyard"
             android:id="@+id/imageView3"
             android:layout_width="75dp"
             android:layout_height="75dp" />
         <ImageView
-            android:src="@android:drawable/ic_menu_gallery"
+            android:src="@drawable/dining_room"
             android:id="@+id/imageView4"
             android:layout_height="75dp"
             android:layout_width="75dp" />
         <ImageView
-            android:src="@android:drawable/ic_menu_gallery"
+            android:src="@drawable/parlor"
             android:id="@+id/imageView6"
             android:layout_height="75dp"
             android:layout_width="75dp" />
         <ImageView
-            android:src="@android:drawable/ic_menu_gallery"
+            android:src="@drawable/sitting_room"
             android:id="@+id/imageView5"
             android:layout_width="75dp"
             android:layout_height="75dp" />

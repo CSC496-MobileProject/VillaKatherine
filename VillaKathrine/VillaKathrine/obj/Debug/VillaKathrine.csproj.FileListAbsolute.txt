@@ -88,7 +88,6 @@ C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\o
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\sitting_room.png
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\parlor.png
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\layout\timeline.xml
-C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\VillaKathrine.dll.mdb
 C:\Users\Michelle\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\bin\Debug\VillaKathrine.dll
 C:\Users\Michelle\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\bin\Debug\VillaKathrine.pdb
 C:\Users\Michelle\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\bin\Debug\VillaKathrine.VillaKathrine.apk
@@ -138,4 +137,7 @@ C:\Users\Michelle\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\ob
 C:\Users\Michelle\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\android\assets\VillaKathrine.dll.mdb
 C:\Users\Michelle\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\values\theme.xml
 C:\Users\Michelle\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\VillaKathrine.dll.mdb
-C:\Users\Michelle\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\bin\Debug\VillaKathrine.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\values\theme.xml
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\layout\photo_view.xml
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\VillaKathrine.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\bin\Debug\VillaKathrine.dll.mdb

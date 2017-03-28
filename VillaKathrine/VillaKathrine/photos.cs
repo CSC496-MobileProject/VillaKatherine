@@ -54,6 +54,53 @@ namespace VillaKathrine
                 var intent = new Intent(this, typeof(timeline));
                 StartActivity(intent);
             };
+
+            // Set reference to imageview
+            ImageView imageView1 = FindViewById<ImageView>(Resource.Id.imageView1);
+            ImageView imageView2 = FindViewById<ImageView>(Resource.Id.imageView2);
+            ImageView imageView3 = FindViewById<ImageView>(Resource.Id.imageView3);
+            ImageView imageView4 = FindViewById<ImageView>(Resource.Id.imageView4);
+            ImageView imageView5 = FindViewById<ImageView>(Resource.Id.imageView5);
+            ImageView imageView6 = FindViewById<ImageView>(Resource.Id.imageView6);
+
+            imageView1.Click += (object sender, EventArgs e) =>
+            {
+                var intent = new Intent(this, typeof(photo_view));
+                intent.PutExtra("img_id", "villa_main"); //pass image name to photo_view
+                StartActivity(intent);
+            };
+
+            imageView2.Click += (object sender, EventArgs e) =>
+            {
+                var intent = new Intent(this, typeof(photo_view));
+                intent.PutExtra("img_id", "bedrooms"); //pass image name to photo_view
+                StartActivity(intent);
+            };
+            imageView3.Click += (object sender, EventArgs e) =>
+            {
+                var intent = new Intent(this, typeof(photo_view));
+                intent.PutExtra("img_id", "courtyard"); //pass image name to photo_view
+                StartActivity(intent);
+            };
+            imageView4.Click += (object sender, EventArgs e) =>
+            {
+                var intent = new Intent(this, typeof(photo_view));
+                intent.PutExtra("img_id", "dining_room"); //pass image name to photo_view
+                StartActivity(intent);
+            };
+            imageView5.Click += (object sender, EventArgs e) =>
+            {
+                var intent = new Intent(this, typeof(photo_view));
+                intent.PutExtra("img_id", "parlor"); //pass image name to photo_view
+                StartActivity(intent);
+            };
+
+            imageView6.Click += (object sender, EventArgs e) =>
+            {
+                var intent = new Intent(this, typeof(photo_view));
+                intent.PutExtra("img_id", "sitting_room"); //pass image name to photo_view
+                StartActivity(intent);
+            };
         }
     }
 }
