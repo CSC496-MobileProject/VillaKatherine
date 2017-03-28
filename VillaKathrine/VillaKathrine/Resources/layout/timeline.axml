@@ -23,35 +23,33 @@
                 android:minHeight="25px"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:id="@+id/linearLayout2">
-                <Toolbar
-                    android:background="?android:attr/colorPrimary"
-                    android:id="@+id/menu_toolbar"
+                android:id="@+id/linearLayout2"
+                android:background="#000000">
+                <Button
+                    android:text="@string/Home"
+                    android:id="@+id/home_button"
+                    android:layout_height="match_parent"
                     android:layout_width="wrap_content"
-                    android:layout_height="match_parent">
-                    <Button
-                        android:text="@string/Home"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:id="@+id/home_button" />
-                    <Button
-                        android:text="@string/Photos"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:id="@+id/photos_button" />
-                    <Button
-                        android:text="@string/Rooms"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:id="@+id/rooms_button"
-                        android:layout_marginTop="2.0dp"
-                        android:clickable="true" />
-                    <Button
-                        android:text="Timeline"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:id="@+id/timeline_button" />
-                </Toolbar>
+                    android:layout_weight="1" />
+                <Button
+                    android:text="@string/Photos"
+                    android:id="@+id/photos_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+                <Button
+                    android:text="@string/Rooms"
+                    android:id="@+id/rooms_button"
+                    android:clickable="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+                <Button
+                    android:text="Timeline"
+                    android:id="@+id/timeline_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
             </LinearLayout>
             <LinearLayout
                 android:orientation="vertical"
@@ -66,7 +64,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:id="@+id/textView1"
-                    android:gravity="center" />
+                    android:gravity="center"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1" />
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
