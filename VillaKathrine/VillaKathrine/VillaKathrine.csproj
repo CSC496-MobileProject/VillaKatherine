@@ -119,6 +119,27 @@
   <ItemGroup>
     <AndroidResource Include="Resources\values\theme.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\bedrooms.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\courtyard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\dining_room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\parlor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\sitting_room.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\villa_main.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
      Other similar extension points exist, see Microsoft.Common.targets.

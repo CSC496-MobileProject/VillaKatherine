@@ -23,11 +23,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/relativeLayout1">
-        <ImageView
-            android:src="@android:drawable/ic_menu_gallery"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/zoomImageView"
-            android:scaleType="matrix" />
+        <android.webkit.WebView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/webView" />
     </RelativeLayout>
 </LinearLayout>

@@ -67,7 +67,7 @@ public final class R {
         public static final int sitting_button=0x7f07002b;
         public static final int textView1=0x7f070008;
         public static final int timeline_button=0x7f070005;
-        public static final int zoomImageView=0x7f07000b;
+        public static final int webView=0x7f07000b;
     }
     public static final class layout {
         public static final int main=0x7f030000;

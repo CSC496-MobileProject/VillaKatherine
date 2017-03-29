@@ -10,10 +10,6 @@ VillaKathrine.photo_view, VillaKathrine;md5839ece1ad673f025203fb3eb247aa9b5.phot
 VillaKathrine.photo_view, VillaKathrine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5839ece1ad673f025203fb3eb247aa9b5.photo_view
 VillaKathrine.photo_view;md5839ece1ad673f025203fb3eb247aa9b5.photo_view
 villakathrine.photo_view;md5839ece1ad673f025203fb3eb247aa9b5.photo_view
-VillaKathrine.photo_view/Zoomer, VillaKathrine;md5839ece1ad673f025203fb3eb247aa9b5.photo_view_Zoomer
-VillaKathrine.photo_view+Zoomer, VillaKathrine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5839ece1ad673f025203fb3eb247aa9b5.photo_view_Zoomer
-VillaKathrine.photo_view.Zoomer;md5839ece1ad673f025203fb3eb247aa9b5.photo_view_Zoomer
-villakathrine.photo_view_Zoomer;md5839ece1ad673f025203fb3eb247aa9b5.photo_view_Zoomer
 VillaKathrine.rooms, VillaKathrine;md5839ece1ad673f025203fb3eb247aa9b5.rooms
 VillaKathrine.rooms, VillaKathrine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5839ece1ad673f025203fb3eb247aa9b5.rooms
 VillaKathrine.rooms;md5839ece1ad673f025203fb3eb247aa9b5.rooms

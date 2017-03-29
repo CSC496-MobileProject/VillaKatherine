@@ -7,6 +7,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
+
 namespace VillaKathrine
 {
     [Activity(Label = "VillaKathrine", MainLauncher = true, Icon = "@drawable/icon")]
@@ -20,7 +21,7 @@ namespace VillaKathrine
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
-
+            
             // Set reference to buttons
             Button homeButton = FindViewById<Button>(Resource.Id.home_button);
             Button photosButton = FindViewById<Button>(Resource.Id.photos_button);

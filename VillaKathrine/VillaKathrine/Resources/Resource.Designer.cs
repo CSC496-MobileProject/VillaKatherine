@@ -227,7 +227,7 @@ namespace VillaKathrine
 			public const int timeline_button = 2131165189;
 			
 			// aapt resource value: 0x7f07000b
-			public const int zoomImageView = 2131165195;
+			public const int webView = 2131165195;
 			
 			static Id()
 			{

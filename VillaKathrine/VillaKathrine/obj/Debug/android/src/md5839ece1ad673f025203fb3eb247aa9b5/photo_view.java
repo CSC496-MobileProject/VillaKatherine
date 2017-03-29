@@ -10,7 +10,6 @@ public class photo_view
 	public static final String __md_methods;
 	static {
 		__md_methods = 
-			"n_onTouchEvent:(Landroid/view/MotionEvent;)Z:GetOnTouchEvent_Landroid_view_MotionEvent_Handler\n" +
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
 		mono.android.Runtime.register ("VillaKathrine.photo_view, VillaKathrine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", photo_view.class, __md_methods);
@@ -23,14 +22,6 @@ public class photo_view
 		if (getClass () == photo_view.class)
 			mono.android.TypeManager.Activate ("VillaKathrine.photo_view, VillaKathrine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
-
-
-	public boolean onTouchEvent (android.view.MotionEvent p0)
-	{
-		return n_onTouchEvent (p0);
-	}
-
-	private native boolean n_onTouchEvent (android.view.MotionEvent p0);
 
 
 	public void onCreate (android.os.Bundle p0)
