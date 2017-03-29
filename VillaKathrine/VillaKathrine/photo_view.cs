@@ -25,6 +25,9 @@ namespace VillaKathrine
         {
             base.OnCreate(bundle);
 
+            // This will Hide the title Bar
+            Window.RequestFeature(WindowFeatures.NoTitle);
+
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.photo_view);
 
@@ -37,6 +40,7 @@ namespace VillaKathrine
             web_view.Settings.JavaScriptEnabled = true;
             web_view.LoadUrl("file:///android_asset/" + img_id + ".png");
             web_view.Settings.BuiltInZoomControls = true;
+            web_view.Settings.DisplayZoomControls = false;
 
             returnButton.Click += (object sender, EventArgs e) =>
             {
