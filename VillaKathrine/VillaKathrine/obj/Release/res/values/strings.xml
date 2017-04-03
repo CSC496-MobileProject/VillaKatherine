@@ -1,1 +1,31 @@
-<resources><string name="Home">Home</string><string name="Rooms">Rooms</string><string name="Photos">Photos</string><string name="VR">VR Tour</string><string name="parlor">The Villa features recurring shapes, such as the diamond and the eight-pointed star. The ceiling beams are original and made of cypress. The construction materials were all bought locally. The entire Villa was bought by the Quincy Park District in 1955 and had to be restored in 1975 before re-opening in 1976.</string><string name="courtyard">The Villa was built in 1900 by William "George" Metz, for a cost of $7,000. The Courtyard is a gallery supported by Byzantine-styled arches. It rests on eight Islamic Pillars. The Villa is the only Islamic-influenced architecture in Quincy. In the center is the reflecting pool. The whole room is designed to mimic a Mid-Eastern pattern.</string><string name="dining_room">Lavish parties were often held at the Villa, often with people sitting around the reflecting pool. The China cabinet and the buffet are original. The nickel-plated brass on the cabinet is also original.</string><string name="sitting_room">Also called the "Smoking Room", this room features a particularly beautiful view of the Mississippi. Under the window there used to be an alabaster fireplace façade. Architect George Behrensmeyer drew the blueprint for the Villa.</string><string name="bedrooms">The Villas walls are twelve to eighteen inch thick brick, covered by one half to one inch think plaster. There is a fireplace in every (original) bedroom. Also, all of the rooms open into the Courtyard. William"George" Metz was said to have a dog named "Bingo".</string><string name="ApplicationName">VillaKathrine</string></resources>
+<resources><string name="Home">Home</string><string name="Rooms">Rooms</string><string name="Photos">Photos</string><string name="Timeline">Timeline</string><string name="parlor">
+      \u2022The Villa features recurring shapes, such as the diamond and the eight-pointed star.\n\n
+      \u2022The ceiling beams are original and made of cypress. The construction materials were all bought locally.\n\n
+      \u2022The entire Villa, plus 4 acres of land, was bought by the Quincy Park District in 1955, which used it as a community center for neighborhood children for several years.\n\n
+      \u2022Friends of the Castle began restoration of the entire exterior and interior of the Villa Kathrine in 1978 and completed it in 1998.\n\n
+    </string><string name="courtyard">
+      \u2022The Villa was built in 1900 by Quincy native, William "George" Metz, for $7,000.\n\n
+      \u2022The Courtyard is a gallery supported by Byzantine-styled arches. The balcony rests on eight Islamic Pillars, making The Villa is the only Islamic-influenced architecture in Quincy.\n\n
+      \u2022In the center is a reflecting pool. The whole room is designed to mimic a Mid-Eastern pattern.\n\n
+    </string><string name="dining_room">
+      \u2022Lavish parties were often held at the Villa, often with people sitting around the reflecting pool.\n\n
+      \u2022The China cabinet and the buffet are original. The nickel-plated brass on the cabinet is also original.\n\n
+      \u2022The back porch and pantry were built to form a windbreak, and to provide a service entrance.\n\n
+    </string><string name="sitting_room">
+      \u2022Also called the "Smoking Room", this room features a particularly beautiful view of the Mississippi River.\n\n
+      \u2022Under the window there used to be an alabaster fireplace façade.\n\n
+      \u2022Architect George Behrensmeyer drew the blueprint for the Villa.\n\n
+    </string><string name="bedrooms">
+      \u2022The Master Bedroom is the largest room on the second floor; its windows have views to the North and East.\n\n
+      \u2022The Villa\'s walls are twelve to eighteen inches thick brick, covered by one half to one inch think plaster.\n\n
+      \u2022There is a fireplace or wood-burning stove in every (original) room. Also, the rooms all have doors that open into the Courtyard.\n\n
+      \u2022William "George" Metz was said to have a 212 pound Mastiff dog named "Bingo"."\n\n
+    </string><string name="Contact">Contact info :\n\nvillakathrine.org\nvillakathrine@hotmail.com\nphone: 217-224-6388\n532 Gardner Expressway P.O. Box 732 Quincy, IL</string><string name="ApplicationName">VillaKathrine</string><string name="Timeline_info">
+      TIMELINE OF EVENTS\n 
+      \n\n1900: \n Villa was built by William, "George" Metz, a Quincy native, for $7,000.
+      \n\n1912: \n A couple approached Metz asking to purchase the Villa. He resisted at first, but at the persistent urging of relatives, he eventually sold the Villa. 
+      \n\n1933: \n Metz returned to the Villa with a reporter. When asked why he named it the Villa Kathrine, he only chuckled and did not answer. 
+      \n\n1937: \n Metz dies in Quincy at the age of 88. 
+      \n\n1955: \n The Quincy Park District acquired the property of the Villa, with the help of Fabiola Moorman, and is still the owner. 
+      \n\n1978: \n A serious effort was undertaken to restore the Villa. 
+      \n\n1998: \n The Friends of the Castle completed the restoration of the Villa.</string></resources>
