@@ -79,5 +79,10 @@ C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\o
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Release\android\assets\System.dll.mdb
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Release\android\assets\VillaKathrine.dll.mdb
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Release\res\drawable\men.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Release\res\drawable\stairs.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Release\res\drawable\window.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Release\res\drawable\chair.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Release\res\drawable\lamp.png
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Release\VillaKathrine.dll.mdb
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\bin\Release\VillaKathrine.dll.mdb

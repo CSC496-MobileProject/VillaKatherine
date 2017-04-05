@@ -15,12 +15,17 @@ public final class R {
     }
     public static final class drawable {
         public static final int bedrooms=0x7f020000;
-        public static final int courtyard=0x7f020001;
-        public static final int dining_room=0x7f020002;
-        public static final int icon=0x7f020003;
-        public static final int parlor=0x7f020004;
-        public static final int sitting_room=0x7f020005;
-        public static final int villa_main=0x7f020006;
+        public static final int chair=0x7f020001;
+        public static final int courtyard=0x7f020002;
+        public static final int dining_room=0x7f020003;
+        public static final int icon=0x7f020004;
+        public static final int lamp=0x7f020005;
+        public static final int men=0x7f020006;
+        public static final int parlor=0x7f020007;
+        public static final int sitting_room=0x7f020008;
+        public static final int stairs=0x7f020009;
+        public static final int villa_main=0x7f02000a;
+        public static final int window=0x7f02000b;
     }
     public static final class id {
         public static final int bedroom_button=0x7f07002c;
