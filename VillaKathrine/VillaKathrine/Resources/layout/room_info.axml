@@ -27,13 +27,15 @@
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/room_name" />
+            android:id="@+id/room_name"
+            android:textColor="@android:color/holo_orange_light" />
         <TextView
             android:text="Medium Text"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/room_desc"
-            android:gravity="left" />
+            android:gravity="left"
+            android:textColor="@android:color/holo_orange_light" />
     </LinearLayout>
 </ScrollView>
