@@ -15,7 +15,10 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/return_button"
-            android:layout_marginTop="0px" />
+            android:layout_marginTop="0px"
+            android:background="@drawable/button_icon"
+            android:backgroundTint="#ffa0a0a0"
+            android:backgroundTintMode="multiply" />
     </LinearLayout>
     <RelativeLayout
         android:minWidth="25px"
@@ -26,6 +29,7 @@
         <android.webkit.WebView
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:id="@+id/webView" />
+            android:id="@+id/webView"
+            android:backgroundTint="#ff696969" />
     </RelativeLayout>
 </LinearLayout>

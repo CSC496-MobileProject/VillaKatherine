@@ -38,7 +38,7 @@ namespace VillaKathrine
 
             web_view = FindViewById<WebView>(Resource.Id.webView);
             web_view.Settings.JavaScriptEnabled = true;
-            web_view.LoadUrl("file:///android_asset/" + img_id + ".png");
+            web_view.LoadUrl("file:///android_asset/" + img_id + ".html");
             web_view.Settings.BuiltInZoomControls = true;
             web_view.Settings.DisplayZoomControls = false;
 

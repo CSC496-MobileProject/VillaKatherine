@@ -29,6 +29,8 @@ namespace VillaKathrine
             Button photosButton = FindViewById<Button>(Resource.Id.photos_button);
             Button roomsButton = FindViewById<Button>(Resource.Id.rooms_button);
             Button timelineButton = FindViewById<Button>(Resource.Id.timeline_button);
+            Button gmButton = FindViewById<Button>(Resource.Id.george_metz);
+            Button timeline_infoButton = FindViewById<Button>(Resource.Id.timeline_info);
 
             // OnClick functions for buttons
             homeButton.Click += (object sender, EventArgs e) =>
@@ -52,6 +54,20 @@ namespace VillaKathrine
             timelineButton.Click += (object sender, EventArgs e) =>
             {
                 var intent = new Intent(this, typeof(timeline));
+                StartActivity(intent);
+            };
+
+            gmButton.Click += (object sender, EventArgs e) =>
+            {
+                var intent = new Intent(this, typeof(timeline_info));
+                intent.PutExtra("info_id", "George Metz, Eccentric or Visionary?");
+                StartActivity(intent);
+            };
+
+            timeline_infoButton.Click += (object sender, EventArgs e) =>
+            {
+                var intent = new Intent(this, typeof(timeline_info));
+                intent.PutExtra("info_id", "Timeline of Events");
                 StartActivity(intent);
             };
         }

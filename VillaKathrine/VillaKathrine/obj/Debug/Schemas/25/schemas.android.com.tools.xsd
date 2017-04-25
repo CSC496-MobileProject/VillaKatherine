@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>4/6/2017 2:12:47 PM</xs:documentation>
+    <xs:documentation>4/25/2017 4:50:42 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -18,6 +18,7 @@
             <xs:enumeration value="@layout/room_info" />
             <xs:enumeration value="@layout/rooms" />
             <xs:enumeration value="@layout/timeline" />
+            <xs:enumeration value="@layout/timeline_info" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -72,6 +73,7 @@
             <xs:enumeration value="@layout/room_info" />
             <xs:enumeration value="@layout/rooms" />
             <xs:enumeration value="@layout/timeline" />
+            <xs:enumeration value="@layout/timeline_info" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -126,6 +128,7 @@
             <xs:enumeration value="@layout/room_info" />
             <xs:enumeration value="@layout/rooms" />
             <xs:enumeration value="@layout/timeline" />
+            <xs:enumeration value="@layout/timeline_info" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -180,6 +183,7 @@
             <xs:enumeration value="@layout/room_info" />
             <xs:enumeration value="@layout/rooms" />
             <xs:enumeration value="@layout/timeline" />
+            <xs:enumeration value="@layout/timeline_info" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -228,11 +232,13 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@string/About" />
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/bedrooms" />
             <xs:enumeration value="@string/Contact" />
             <xs:enumeration value="@string/courtyard" />
             <xs:enumeration value="@string/dining_room" />
+            <xs:enumeration value="@string/george_metz" />
             <xs:enumeration value="@string/Home" />
             <xs:enumeration value="@string/parlor" />
             <xs:enumeration value="@string/Photos" />

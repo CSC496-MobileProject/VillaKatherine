@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fadeScrollbars="true"
+    android:scrollbars="vertical"
+    android:verticalScrollbarPosition="right"
+    android:isScrollContainer="true">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout1">
+            <Button
+                android:text="Return to Timeline"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/return_button"
+                android:backgroundTint="#ffa0a0a0"
+                android:backgroundTintMode="multiply"
+                android:background="@drawable/button_icon" />
+            <TextView
+                android:text="Text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/info_name"
+                android:textSize="60px"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:gravity="center" />
+            <TextView
+                android:text="Text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/info_desc"
+                android:textSize="42px"
+                android:typeface="serif" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

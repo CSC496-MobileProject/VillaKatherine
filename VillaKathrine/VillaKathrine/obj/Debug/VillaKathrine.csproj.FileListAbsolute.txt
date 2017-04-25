@@ -158,5 +158,7 @@ C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\o
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\villa2.png
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\villa3.png
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\villa4.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\drawable\button_icon.png
+C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\res\layout\timeline_info.xml
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\obj\Debug\VillaKathrine.dll.mdb
 C:\Users\Rainwater\Documents\GitHub\VillaKatherine\VillaKathrine\VillaKathrine\bin\Debug\VillaKathrine.dll.mdb

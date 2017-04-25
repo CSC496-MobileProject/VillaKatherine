@@ -13,8 +13,11 @@
         <Button
             android:text="Return to rooms"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/return_button" />
+            android:layout_height="50dp"
+            android:id="@+id/return_button"
+            android:background="@drawable/button_icon"
+            android:backgroundTint="#ffa0a0a0"
+            android:backgroundTintMode="multiply" />
         <ImageView
             android:src="@android:drawable/ic_menu_gallery"
             android:layout_width="304.0dp"
@@ -27,15 +30,13 @@
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/room_name"
-            android:textColor="@android:color/holo_orange_light" />
+            android:id="@+id/room_name" />
         <TextView
             android:text="Medium Text"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/room_desc"
-            android:gravity="left"
-            android:textColor="@android:color/holo_orange_light" />
+            android:gravity="left" />
     </LinearLayout>
 </ScrollView>
